@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "ser_humano",
+    "title": "1. El ser humano",
+    "breadcrumb": ["El ser humano","tema-1"],
+    "path": "pages/tema_1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ser_humano",
+        "title": "1.1 Contexto histórico humanismo",
+        "anchor": "tema1_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ser_humano",
+        "title": "1.2 Componentes ser humano",
+        "anchor": "tema1_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ser_humano",
+        "title": "1.2.1 Necesidades",
+        "anchor": "tema1_2_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ser_humano",
+        "title": "1.2.2 Capacidades",
+        "anchor": "tema1_2_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ser_humano",
+        "title": "1.2.3 Valores",
+        "anchor": "tema1_2_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ser_humano",
+        "title": "1.2.4 Componentes biopsicosociales",
+        "anchor": "tema1_2_4"
+      }
+    ]
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "lineamientos",
+    "title": "2. Lineamientos normativos ser humano en Colombia",
+    "breadcrumb": ["Inicio","tema-2"],
+    "path": "pages/tema_2.html"    
+  }   
+]
